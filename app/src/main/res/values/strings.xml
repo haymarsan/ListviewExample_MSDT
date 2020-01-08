@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Listview Project_MSDT</string>
+    <string-array name="programming_language">
+        <item>Android</item>
+        <item>Java</item>
+        <item>Php</item>
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>Python</item>
+        <item>Ajax</item>
+        <item>C++</item>
+        <item>Ruby</item>
+        <item>NoteJS</item>
+        <item>.Net</item>
+        <item>Perl</item>
+        <item>Android</item>
+        <item>Java</item>
+        <item>Php</item>
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>Python</item>
+        <item>Ajax</item>
+        <item>C++</item>
+        <item>Ruby</item>
+        <item>NoteJS</item>
+        <item>.Net</item>
+        <item>Perl</item>
+    </string-array>
+</resources>
